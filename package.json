@@ -1,0 +1,8 @@
+{
+  "name": "javascript-testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/marcello-ants/javascript-test-framework.git",
+  "author": "marcelloantunes <marcello.ants@gmail.com>",
+  "license": "MIT"
+}
