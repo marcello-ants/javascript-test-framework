@@ -20,3 +20,5 @@ function expect(actual) {
 
 global.test = test
 global.expect = expect
+
+// script example: node --require ./setup-global.js tests/05-global-test.js
